@@ -1,0 +1,88 @@
+"Il Nome della Rosa",Umberto Eco,50,Storia
+"Così parlò Zarathustra",Friederich Nietzche,60,Filosofia
+"Leviatano",Thomas Hobbs,70,Filosofia
+"Una giornata nell'antica Roma",Alberto Angela,50,Storia
+"L'Arte della Guerra",Sun Tzu,40,Filosofia
+"Storia della Filosofia Antica",Giovanni Reale,45,Filosofia
+"Sapiens",Yuval Noah Harari,55,Storia
+"L'Interpretazione dei Sogni",Sigmund Freud,35,Piscologia
+"Le Origini delle Specie",Charles Darwin,60,Biologia
+"Critica della Ragion Pura",Immanuel Kant,50,Filosofia
+"La Repubblica",Platone,45,Filosofia
+"Cosmos",Carl Sagan,50,Astronomia
+###
+"Open",Andre Agassi,40,Tennis
+"Can't hurt me",David Goggins,40,Corsa
+"Born to Run",Christopher McDougall,35,Corsa
+"La Biografia di Michael Jordan",Roland Lazenby,50,Basket
+"Seabiscuit",Laura Hillenbrand,45,Ippica
+"Moneyball",Michael Lewis,50,Baseball
+"The Blind Side",Michael Lewis,45,Football
+"Shoe Dog",Phil Knight,40,Running
+"Faster",Michael Hutchinson,35,Ciclismo
+"Pushing the Limits",Kyle Maynard,50,Powerlifting
+"The Perfect Mile",Neal Bascomb,45,Atletica
+###
+"L'Isola del Tesoro",Robert Louis Stevenson,45,Marina
+"Ventimila leghe sotto i mari",Jules verne,60,Marina
+"Don Chisciotte della Mancia",Miguel de Cervantes,55,Viaggio
+"Into the Wild",Jon Krakauer,50,Montagna
+"Le Avventure di Huckleberry Finn",Mark Twain,40,Fiume
+"La Montagna Incantata",Thomas Mann,55,Montagna
+"Moby Dick",Herman Melville,60,Oceano
+"Robinson Crusoe",Daniel Defoe,45,Isola
+"Le Avventure di Tom Sawyer",Mark Twain,35,Fiume
+"Il Giro del Mondo in 80 Giorni",Jules Verne,50,Viaggio
+"Viaggio al Centro della Terra",Jules Verne,55,Sottosuolo
+###
+Verdi,3A
+Bianchi,2B
+Ferrari,4C
+Ferri,1D
+Berti,3B
+Mariani,2A
+Conti,1A
+Ricci,4B
+Rossi,3C
+Martini,2C
+Neri,1B
+Rossetti,5A
+Owabor,5C
+###
+"Il Nome della Rosa",Verdi,2024-06-01,2024-06-15
+"L'Arte della Guerra",Bianchi,2024-06-02,2024-06-16
+"Storia della Filosofia Antica",Ferrari,2024-06-03,2024-06-17
+"Sapiens",Ferri,2024-06-04,2024-06-18
+"L'Interpretazione dei Sogni",Berti,2024-06-05,2024-06-19
+"Le Origini delle Specie",Mariani,2024-06-06,2024-06-20
+"Critica della Ragion Pura",Conti,2024-06-07,2024-06-21
+"La Repubblica",Ricci,2024-06-08,2024-06-22
+"Cosmos",Rossi,2024-06-09,2024-06-23
+"Open",Neri,2024-06-11,2024-06-25
+"Born to Run",Verdi,2024-06-12,2024-06-26
+"La Biografia di Michael Jordan",Bianchi,2024-06-13,2024-06-27
+"Seabiscuit",Ferrari,2024-06-14,2024-06-28
+"Moneyball",Ferri,2024-06-15,2024-06-29
+"The Blind Side",Berti,2024-06-16,2024-06-30
+"Shoe Dog",Mariani,2024-06-17,2024-07-01
+"Faster",Conti,2024-06-18,2024-07-02
+"The Perfect Mile",Rossi,2024-06-20,2024-07-04
+"L'Isola del Tesoro",Martini,2024-06-21,2024-07-05
+"Into the Wild",Neri,2024-06-22,2024-07-06
+"Le Avventure di Huckleberry Finn",Verdi,2024-06-23,2024-07-07
+"La Montagna Incantata",Bianchi,2024-06-24,2024-07-08
+"Moby Dick",Ferrari,2024-06-25,2024-07-09
+"Robinson Crusoe",Ferri,2024-06-26,2024-07-10
+"Le Avventure di Tom Sawyer",Berti,2024-06-27,2024-07-11
+"Il Giro del Mondo in 80 Giorni",Mariani,2024-06-28,2024-07-12
+"Viaggio al Centro della Terra",Conti,2024-06-29,2024-07-13
+"Il Nome della Rosa",Ferri,2024-06-01,2024-06-15
+"Critica della Ragion Pura",Ricci,2024-05-07,2024-05-21
+"Così parlò Zarathustra",Rossetti,2024-06-20,2024-06-15
+"Leviatano",Owabor,2024-06-02,2024-06-16
+"Una giornata nell'antica Roma",Owabor,2024-06-20,2024-06-17
+"Can't hurt me",Rossetti,2024-06-04,2024-06-18
+"Ventimila leghe sotto i mari",Owabor,2024-06-05,2024-06-19
+"Don Chisciotte della Mancia",Owabor,2024-07-15,2024-06-20
+"Le Origini delle Specie",Rossetti,2024-06-04,2024-06-18
+"Moby Dick",Rossetti,2024-06-04,2024-06-18
