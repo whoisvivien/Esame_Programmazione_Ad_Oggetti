@@ -1,5 +1,5 @@
 # Esame_Programmazione_Ad_Oggetti
-Esame sul linguaggio Java sviluppato su IntelliJ IDEA Ultimate.
+Esame sul linguaggio Java sviluppato su IntelliJ IDEA Ultimate. (UNIVPM 2023-24)
 
 Nel contesto di una biblioteca scolastica, gli studenti possono leggere libri suddivisi in 
 diverse categorie: Cultura, Sport, Avventura e Fantascienza. Ogni libro assegnato agli studenti ha un 
